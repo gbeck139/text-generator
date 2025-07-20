@@ -45,7 +45,7 @@ In this experiment, the file size and the number of unique words (N) both increa
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/gbeck139/text-generator.git](https://github.com/gbeck139/text-generator.git)
+    git clone https://github.com/gbeck139/text-generator.git
     cd text-generator
     ```
 
